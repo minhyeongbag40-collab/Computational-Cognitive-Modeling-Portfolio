@@ -1,4 +1,3 @@
-<img width="1875" height="872" alt="image" src="https://github.com/user-attachments/assets/0546f581-42f6-41e8-a077-43064ed23c82" /># Computational-Cognitive-Modeling-Portfolio
 Bayesian Models of Cognition
 
 
